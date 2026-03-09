@@ -1,0 +1,12 @@
+org\example\RecursoController.class
+org\example\RecursoDTO$DetalleDTO.class
+org\example\SecurityConfig.class
+org\example\Recurso$Detalle.class
+org\example\ExamenApplication.class
+org\example\RecursoRepository.class
+org\example\RecursoService.class
+org\example\RecursoDTO.class
+org\example\Recurso.class
+org\example\RecursoWebController.class
+org\example\RecursoNotFoundException.class
+org\example\GlobalExceptionHandler.class
